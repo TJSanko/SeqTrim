@@ -1,7 +1,7 @@
 rm(list=ls())
 
-### "Script for trimming sequences at 5' and 3' ends for qiime2 dada2 step"
-### 19.07.2023
+### "R script for trimming sequences at 5' and 3' ends for qiime2 dada2 step"
+
 
 ### syntax:
 ### Rscript seq_trim.R name_of_the_file.tsv  /path/to/table/file/ 50
